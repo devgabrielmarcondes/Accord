@@ -32,9 +32,9 @@ const ActiveNow: React.FC = () => {
     <Container>
       <span>Active Now</span>
 
-      <Friend name="Potatu" status="Roblox - 44m" />
-      <Friend name="New Jersey" status="Roblox - 6m" />
-      <Friend name="xandão loli" status="Roblox - 38m" />
+      <Friend name="Eu aí" status="Roblox - 44m" />
+      <Friend name="Marcelo" status="Roblox - 6m" />
+      <Friend name="Joojo" status="Roblox - 38m" />
     </Container>
   );
 };

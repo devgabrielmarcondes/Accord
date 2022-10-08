@@ -47,15 +47,15 @@ const FriendStatus: React.FC = () => {
   return (
     <Container>
       <span>Online - 9</span>
-      <Friend name="Kim Jong-un" status="Status" />
-      <Friend name="Kim Jong-un" status="Status" />
-      <Friend name="Kim Jong-un" status="Status" />
-      <Friend name="Kim Jong-un" status="Status" />
-      <Friend name="Kim Jong-un" status="Status" />
-      <Friend name="Kim Jong-un" status="Status" />
-      <Friend name="Kim Jong-un" status="Status" />
-      <Friend name="Kim Jong-un" status="Status" />
-      <Friend name="Kim Jong-un" status="Status" />
+      <Friend name="Usuário" status="Status" />
+      <Friend name="Usuário" status="Status" />
+      <Friend name="Usuário" status="Status" />
+      <Friend name="Usuário" status="Status" />
+      <Friend name="Usuário" status="Status" />
+      <Friend name="Usuário" status="Status" />
+      <Friend name="Usuário" status="Status" />
+      <Friend name="Usuário" status="Status" />
+      <Friend name="Usuário" status="Status" />
     </Container>
   );
 };
